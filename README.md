@@ -1,5 +1,5 @@
 # joy-ddos
-# pyddos.py
+#
 
 * This is my new update 
 * This script have 3 type of ddos attacks : SYNFLOOD | REQUEST | Pyslow
